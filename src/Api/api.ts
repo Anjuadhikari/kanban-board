@@ -1,4 +1,4 @@
-import { Board, Column, Card } from "../types/Domain";
+import { Board, Column, Card } from "../types/domain";
 
 export interface Api {
   // Boards
